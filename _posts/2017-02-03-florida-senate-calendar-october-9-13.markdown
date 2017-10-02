@@ -7,9 +7,8 @@ tags:
 - meeting
 is featured: false
 main-image: "/uploads/senate%20schedule%20oct%209-13.png"
-event-start-date: 2017-02-05 14:30:00 -05:00
-Location: Women's Building - 512 Filmore St, San Francisco, CA
-RSVP-link: http://facebook.com/event
+event-start-date: 2017-10-09 09:00:00 -04:00
+Location: 200 Senate Office Building
 layout: post
 ---
 
