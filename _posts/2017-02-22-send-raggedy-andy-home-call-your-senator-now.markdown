@@ -12,7 +12,7 @@ call-script-text: |-
   ...
 ---
 
-[Example Link](http://example.com)
+[https://www.rubio.senate.gov/public/index.cfm/contact]
 Sen. Marco Rubio told Politico he won’t participate in town hall meetings because political activists will crash them to create a media spectacle of people who “heckle and scream at me in front of cameras.”
 
 Sen. Rubio needs to hear from the people he serves whether they are happy with him or have a complaint.
