@@ -1,22 +1,17 @@
 ---
-title: Feinstein Empty Chair Town Hall
-date: 2017-02-20 03:11:00 Z
+title: Puerto Rico Relief Fund
+date: 2017-02-19 22:11:00 -05:00
 categories:
 - event
 tags:
 - town hall
-main-image: "/uploads/16903207_263328324121850_6421341397699164399_o.jpg"
-event-start-date: 2017-02-28 10:00:00 Z
-event-end-date: 2017-02-28 15:00:00 Z
-Location: Elmhurst Community Prep - 1800 98th Ave, Oakland, California 94603
+main-image: "/uploads/IMG_0918.jpg"
+event-start-date: 2017-09-29 16:00:00 -04:00
+event-end-date: 2017-09-30 18:00:00 -04:00
+Location: 2888 Mahan Dr
 ---
 
-We have gotten confirmation from Senator Feinstein's office that she will NOT be attending this event. While we are disappointed in this decision, it will not change our plans -- the event is still on!
-
-We want to make a powerful, positive statement that we want to work with her and she ought to be present . After a couple speeches from local luminaries taking a stand against the Trump agenda, we’ll invite the audience to share questions, stories, and messages which we’ll record and pass along to the Senator.
-
-We also want to help attendees get more involved in the movement so we’re inviting representatives from local activist and community groups to distribute information and answer questions.
-
-We’re still lining up the details, but we are in talks with some speakers we think you’ll be pretty pleased with.
-
-Please note that an RSVP does not constitute a reservation. We’ll let you know when the event details are finalized and (free) tickets become available.
+This is the scene at 2888 Mahan Drive today, where donations to those suffering in the aftermath of Hurricane Maria in Puerto Rico are being gathered for a private plane flight to that island.
+Tallahassee's material response has been wonderful. Now those orchestrating this could use some more physical help in loading the trucks, sorting and packing goods, and cleaning up when all is said and done.
+They don't need more material goods right now. But more money is very helpful. You can deliver money to them there, or walk into any Prime Meridian Bank branch in Tallahassee or Thomasville and hand them a check made out to Puerto Rico Relief Fund. These monies will help put fuel into the plane, or maybe even charter a second plane. The pilots are working for free.
+The Tallahassee lawyer who started this effort -- originally from Puerto Rico herself, but living and practicing here now -- has relatives in Puerto Rico who will receive and distribute these particular goods much faster than what you hear about on national news right now.
