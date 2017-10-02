@@ -1,14 +1,11 @@
 ---
-title: Today's Win Against Trump
+title: We are Winning Against Trump
 date: 2017-02-01 18:50:00 -05:00
 categories:
 - jekyll
 - update
 main-image: "/uploads/oakland.jpg"
-event-start-date: 
 layout: post
 ---
 
-This is a blog post.
-
-Check out the [the Indivisible Template docs](http://indivisibletemplate.com/documentation/) for more info about how to create posts.
+Across the nation, over 5,800 local groups (at least 2 in every congressional district) are using the Indivisible Guide to hold their members of Congress accountable.
