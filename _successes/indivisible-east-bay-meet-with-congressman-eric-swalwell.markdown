@@ -1,5 +1,5 @@
 ---
-title: Indivisible East Bay meet with Congressman Eric Swalwell.
+title: Indivisible Tallahassee supports DACA recipients.
 date: 2017-02-06 17:07:00 -05:00
 main-image: "/uploads/indivisible-eb1.jpg"
 layout: media-item
