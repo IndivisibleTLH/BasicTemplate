@@ -1,7 +1,7 @@
 ---
 title: Indivisible Tallahassee supports DACA recipients.
 date: 2017-02-06 17:07:00 -05:00
-main-image: "/uploads/indivisible-eb1.jpg"
+main-image: "/uploads/IMG_0293-8fcf7b.jpg"
 layout: media-item
 ---
 
